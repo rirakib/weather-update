@@ -4,11 +4,9 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url('./bg.jpeg');
-    background-repeat: no-repeat;
+    background-color: aqua;
     height: 100vh;
     width: 100%;
-    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
